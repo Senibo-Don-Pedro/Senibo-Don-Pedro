@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senibo-don-pedro" alt="senibo-don-pedro" /></a> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Java and Springboot**
 
 - 👨‍💻 All of my projects are available at [senibodonpedro.vercel.app](senibodonpedro.vercel.app)
 
