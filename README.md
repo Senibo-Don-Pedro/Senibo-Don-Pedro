@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working on **enhancing my backend skills with Spring Boot.**
 
-- 👨‍💻 All of my projects are available at <a href="senibodonpedro.vercel.app">senibodonpedro.vercel.app</a>
+- 👨‍💻 All of my projects are available at <a href="www.senibodonpedro.vercel.app">senibodonpedro.vercel.app</a>
 
 - 💬 Continuously **learning new technologies and best practices in software engineering.**
 
