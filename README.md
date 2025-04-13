@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Don-Pedro Senibo 👋</h1>
-<h3 align="center">I'm a FullStack Software Engineer at Ecobank Nigeria, specialising in Frontend development using React, Next.JS, and TypeScript. I also have experience in backend development with Express.JS and I'm currently learning Spring Boot. Additionally, I hold a C# Foundational Certificate from FreeCodeCamp.</h3>
+<h3 align="center">I'm a FullStack Software Engineer at Ecobank Nigeria, specialising in Frontend development using React, Next.JS, and TypeScript. I also have experience in backend development with Java and Spring Boot. Additionally, I hold a C# Foundational Certificate from FreeCodeCamp.</h3>
 
 - 🌱 I’m currently working on **enhancing my backend skills with Spring Boot.**
 
-- 👨‍💻 All of my projects are available at <a href="www.senibodonpedro.vercel.app">senibodonpedro.vercel.app</a>
+- 👨‍💻 All of my projects are available at <a href="https://senibodonpedro.vercel.app">senibodonpedro.vercel.app</a>
 
 - 💬 Continuously **learning new technologies and best practices in software engineering.**
 
