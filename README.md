@@ -1,4 +1,6 @@
-<!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
+<img src="Don-Pedro.png" alt="GitHub Banner" width="100%" />
+
+<br>
 
 # Hello World!, I'm Senibo, a Fullstack Software Engineer 👋🏼
 🏗️ I’m currently working on building robust, scalable fullstack applications using React (TypeScript) for dynamic, user-focused interfaces and Java Spring Boot for secure, high-performance backend APIs. Recently, I’ve delivered solutions in fintech—like ATM inventory, regulatory reporting systems, fraud complaint automation, and cross-selling landing pages for digital banking.
