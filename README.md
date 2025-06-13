@@ -1,6 +1,6 @@
 <!-- <img src="banner_github.png" alt="GitHub Banner" width="100%" /> -->
 
-# Hello World!, I'm Senibo, a Fullstack Software Engineer 👋🏼:
+# Hello World!, I'm Senibo, a Fullstack Software Engineer 👋🏼
 🏗️ I’m currently working on building robust, scalable fullstack applications using React (TypeScript) for dynamic, user-focused interfaces and Java Spring Boot for secure, high-performance backend APIs. Recently, I’ve delivered solutions in fintech—like ATM inventory, regulatory reporting systems, fraud complaint automation, and cross-selling landing pages for digital banking.
 <br>
 <br>🤝 I’m looking to collaborate on Innovative projects where seamless integration between frontend and backend is essential—especially those in banking, fintech, or productivity tools. If you need a developer who thrives in both TypeScript/React and Java/Spring Boot, let’s connect!
